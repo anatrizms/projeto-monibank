@@ -17,6 +17,8 @@ Curso 100% online | Plataforma: Alura | Instrutora: Monica Hillman<br>
 - Aplicar um fluxo de navegação escondendo e mostrando elementos;
 - Inserir novos dados no localStorage.
 
+Observação: HTML e CSS 100% disponibilizados pelo curso.
+
 
 ## 🛠️ Visualizar o resultado final
 
