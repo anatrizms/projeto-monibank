@@ -20,7 +20,7 @@ Curso 100% online | Plataforma: Alura | Instrutora: Monica Hillman<br>
 
 ## 🛠️ Visualizar o resultado final
 
-<a href="#" target="_blank">Clique aqui para acessar o GitHub Pages.</a>
+<a href="https://anatrizms.github.io/projeto-monibank/" target="_blank">Clique aqui para acessar o GitHub Pages.</a>
 
 ## Licença
 
